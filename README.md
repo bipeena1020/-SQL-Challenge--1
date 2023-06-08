@@ -7,4 +7,4 @@ Here we have analyse the following data to provide him with all the answers he r
 
 We have given 10 questions that we need to analyze and extract insights using SQL for Steve's car showroom.
 
-Tool Used : SSMS 
+Tool Used : SSMS and Power Point
