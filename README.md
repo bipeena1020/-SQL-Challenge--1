@@ -1,4 +1,4 @@
-# SQL-Challenge--1
+# SQL-Challenge-1
 
 Steel Data SQL Challenge 1 - Steve's Car Showroom 
 
